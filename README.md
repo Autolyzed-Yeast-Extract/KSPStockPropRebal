@@ -1,4 +1,4 @@
-# BGPropRebal
+# KSP Breaking Ground Propeller Rebalance
 This mod makes the breaking ground turboshaft engines consume 
 less fuel. In the base game, the small turboshaft engine - 
 which is intended to be used as the engine for low-tech 
